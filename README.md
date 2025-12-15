@@ -1,5 +1,7 @@
 # CNYT Projects
 Computational, Numerical and Quantum Theory projects developed as part of academic and self-learning work.
+These projects were developed as part of university coursework and independent study.
+
 
 ## 📘 Python & Numerical Methods
 - 🔢 [NumerosComplejos](https://github.com/camilo-axm/NumerosComplejos)  
